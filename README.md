@@ -1,6 +1,10 @@
 # Gnuradio-FM-Reciever
 Customization of Receiving FM Radio Signals using Gnuradio with HackRFOne device
 
+Download the "HackrfRecieverFm.grc" file and open it with gnuradio-companion. 
+Change the center frequency to any radio frequency within your location
+Plug in the HackRFOne deviceand execute the flow graph
+
 Setting up the HackRF One Device
 1. Attach the antenna to the antenna port after removing the red safety cap. Attaching the antenna first is
 vital because running the HackRF One without an antenna can damage the device’s hardware.
